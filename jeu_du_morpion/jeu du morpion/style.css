@@ -1,0 +1,68 @@
+
+            * {
+                font-family: 'Krona One';
+                
+            }
+
+            body {
+                background-image: url("bg.png");
+
+            }
+           
+           #mostrador {
+               margin: auto;
+               margin-top: 40px;
+               width: 252px;
+               height: 80px;
+   
+           }
+   
+   
+           #textovencedor {
+               text-align: center;
+           }
+   
+           .espaco{
+               width: 80px;
+               height: 60px;
+               border: 2px solid #212121; 
+               float: left;
+               text-align: center;
+               padding-top: 20px;
+           }
+   
+           .tabuleiro {
+               width: 252px;
+               height: 252px;
+               margin: auto;
+           }
+   
+           .h2 {
+               text-align: center;
+               color: crimson;
+               font-size: 2em;
+           }
+
+           button {
+               background-color: crimson;
+               border-radius: 20px;
+               color: white;
+               padding-right: 30px;
+               padding-left: 30px;
+               padding-top: 10px;
+               padding-bottom: 10px;
+               display: flex;
+               justify-content: center;
+               flex-direction: row;
+               
+           }
+
+           button:hover {
+               opacity: 0.8;
+           }
+
+           .divbtn {
+                display: flex;
+                justify-content: center;
+           }
+
