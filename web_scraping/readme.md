@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
 # Web Scraper
 
 Webscraping product’s information from an Amazon’s URL. Copy the Product’s URL when you call the function and it will return the Image URL, Product Title and Price.
