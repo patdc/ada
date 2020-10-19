@@ -1,0 +1,78 @@
+
+            * {
+
+            font-family: 'Quicksand', sans-serif;
+                
+            }
+
+            body {
+                background: #fafafa;
+
+            }
+           
+           #mostrador {
+               margin: auto;
+               margin-top: 40px;
+               width: 252px;
+               height: 80px;
+   
+           }
+   
+   
+           #textovencedor {
+               text-align: center;
+           }
+   
+           .espaco{
+               width: 80px;
+               height: 60px;
+               border: 2px solid #2B2B2B; 
+               float: left;
+               text-align: center;
+               padding-top: 20px;
+           }
+   
+           .tabuleiro {
+               width: 252px;
+               height: 252px;
+               margin: auto;
+               border: 2px solid #2B2B2B;
+               box-shadow: 7px -22px 144px -63px rgba(50,50,50,0.48);
+           }
+   
+           .h2 {
+               text-align: center;
+               color: #2B2B2B;
+               font-size: 2em;
+           }
+
+           button {
+               background-color: #1f3c88;
+               border-radius: 20px;
+               border: none;
+               cursor: pointer;
+               color: #e8e8e8;
+               padding-right: 30px;
+               padding-left: 30px;
+               padding-top: 10px;
+               padding-bottom: 10px;
+               display: flex;
+               justify-content: center;
+               flex-direction: row;
+               
+           }
+
+           button:hover {
+               opacity: 0.8;
+           }
+
+           .divbtn {
+                display: flex;
+                justify-content: center;
+           }
+
+
+           img {
+               height: 35px;
+               width: 35px;
+           }
