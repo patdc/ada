@@ -26,4 +26,4 @@ Le morpion est un jeu de réflexion se pratiquant à deux joueurs au tour par to
 :heavy_check_mark: Ajouter des Sound Effects à chaque fois que l’utilisateur clique sue une case.
 
 # Visualisation du Projet :eyes:
-![](https://github.com/patdc/ada/blob/master/jeu_du_morpion/morpion_js_preview.gif?raw=true)
+![](https://github.com/patdc/ada/blob/master/jeu_du_morpion/jeudumorpion.gif?raw=true)
